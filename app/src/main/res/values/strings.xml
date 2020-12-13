@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">picture_switcher</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="search">Search</string>
+    <string name="error">Unknown error</string>
+    <string name="save_image">Save image</string>
+    <string name="need_permission">Need Permission for Downloading Image</string>
+    <string name="downloading_image">Downloading Image…</string>
+    <string name="no_search_images">No search images</string>
+
+</resources>
